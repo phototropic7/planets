@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I wrote omething
 
 text
+=======
+i like cheese
+>>>>>>> 1f11ef2090f607e5633b5a943285440754ed567b
+
+ok
